@@ -1,2 +1,2 @@
-# Contacts
-React Web page showing contacts.
+# Data-Driven React Web Page
+Using and adding props to react components
