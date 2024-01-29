@@ -1,2 +1,2 @@
 # Contacts
-Web page displays different contacts
+React Web page showing contacts.
